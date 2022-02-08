@@ -1,3 +1,5 @@
+package SampleLessons;
+
 public class SampleLesson01 {
     public static void main(String[] args) {
         // single line comment
