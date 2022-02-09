@@ -111,6 +111,11 @@ public class Lesson02Strings {
         System.out.println(a.equals(c));           // false
         System.out.println(a.equalsIgnoreCase(c)); // true
 
+        c = a;
+        System.out.println(c == a); // true
+        a = "Turnip"; // reassigns a new memory location to a, doesn't change c
+        System.out.println(a + "\n" + c + "\n" + (c == a));
+
 
         String value = null;
         // Run-time error!
