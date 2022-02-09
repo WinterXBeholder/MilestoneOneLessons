@@ -49,9 +49,10 @@ public class Lesson03Console {
         // The format string: "%s has %s %s and can jump %s inches vertically."
         // other arguments replace each `%s` in order
         System.out.printf("%s has %s %s and can jump %s inches vertically.", "Nomi", 3, "dogs", 37.68);
+        int other = 3;
         double stockPrice = 87.6549513216;
-        System.out.printf("%d %n", stockPrice);     // default string as whole number with a newline
-        System.out.printf("%d%% %n", stockPrice);     // same with a percent sign
+        System.out.printf("%d %n", other);     // default string as whole number with a newline
+        System.out.printf("%d%% %n", other);     // same with a percent sign
         System.out.printf("%s %n", stockPrice);     // default string terminated with a newline
         System.out.printf("%f %n", stockPrice);     // format as floating point
         System.out.printf("%.2f %n", stockPrice);   // floating point with a max of 2 digits after the decimal
