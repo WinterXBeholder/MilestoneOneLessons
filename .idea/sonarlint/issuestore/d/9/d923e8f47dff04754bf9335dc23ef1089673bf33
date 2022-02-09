@@ -1,0 +1,177 @@
+
+Z
+java:S1854^"?Remove this useless assignment to local variable "chainResult".(øÿºúÿÿÿÿ
+V
+java:S1854["@Remove this useless assignment to local variable "moduloResult".(ÈÅ’Í
+S
+java:S1854X"=Remove this useless assignment to local variable "remainder".(ëÖÔã
+Y
+java:S1854V">Remove this useless assignment to local variable "longResult".(Ù§Íøÿÿÿÿ
+X
+java:S1854Q"=Remove this useless assignment to local variable "longValue".(‰—ª×şÿÿÿÿ
+P
+java:S1854O":Remove this useless assignment to local variable "result".(äöÉ
+P
+java:S1854:"5Remove this useless assignment to local variable "d".(é“úüÿÿÿÿ
+K
+java:S18549"5Remove this useless assignment to local variable "f".(²„µ
+P
+java:S18548"5Remove this useless assignment to local variable "d".(¤ï¤æüÿÿÿÿ
+K
+java:S18545"5Remove this useless assignment to local variable "d".(©†İ•
+R
+java:S1854+"7Remove this useless assignment to local variable "lng".(õœ……şÿÿÿÿ
+R
+java:S1854!"7Remove this useless assignment to local variable "lng".(³©ºõûÿÿÿÿ
+K
+java:S1854 "5Remove this useless assignment to local variable "i".(Œ½° 
+K
+java:S1854"5Remove this useless assignment to local variable "s".(êä©
+T
+java:S1854"9Remove this useless assignment to local variable "total".(é°ü†úÿÿÿÿ
+Z
+java:S1854	"?Remove this useless assignment to local variable "linesOfCode".(Ñ‹Ûåşÿÿÿÿ
+X
+java:S1854r"=Remove this useless assignment to local variable "andResult".(ÖˆêÈûÿÿÿÿ
+S
+java:S1854s"=Remove this useless assignment to local variable "andResult".(°ŠÊÌ
+X
+java:S1854t"=Remove this useless assignment to local variable "andResult".(ê–î¸ûÿÿÿÿ
+S
+java:S1854u"=Remove this useless assignment to local variable "andResult".(ˆØòŞ
+R
+java:S1854w"<Remove this useless assignment to local variable "orResult".(š„¦ë
+R
+java:S1854x"<Remove this useless assignment to local variable "orResult".(÷¡û
+W
+java:S1854y"<Remove this useless assignment to local variable "orResult".(ùá˜ãùÿÿÿÿ
+X
+java:S1854}"=Remove this useless assignment to local variable "notResult".(ô²µ’ÿÿÿÿÿ
+X
+java:S1854|"=Remove this useless assignment to local variable "notResult".(ì‘ŸÅøÿÿÿÿ
+Q
+java:S1854z"<Remove this useless assignment to local variable "orResult".(¸æî
+T
+java:S1854€"=Remove this useless assignment to local variable "notResult".(ç¼š©
+[
+java:S1854‘"DRemove this useless assignment to local variable "comparisonResult".(‰ë¡ı
+`
+java:S1854"DRemove this useless assignment to local variable "comparisonResult".(¹ºÒÿÿÿÿÿ
+Z
+java:S1854"DRemove this useless assignment to local variable "comparisonResult".(Ûàéq
+[
+java:S1854"DRemove this useless assignment to local variable "comparisonResult".(¢œûá
+[
+java:S1854"DRemove this useless assignment to local variable "comparisonResult".(á—Ç
+V
+java:S1854‹"?Remove this useless assignment to local variable "equalResult".(³§‰
+[
+java:S1854Š"?Remove this useless assignment to local variable "equalResult".(€ôí›ıÿÿÿÿ
+U
+java:S1854†"?Remove this useless assignment to local variable "equalResult".(¡ğæ
+V
+java:S1854…"?Remove this useless assignment to local variable "equalResult".(®éÅ•
+Y
+java:S1854"=Remove this useless assignment to local variable "notResult".(ìàİ”øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(±şÚù
+K
+java:S1481"0Remove this unused "linesOfCode" local variable.(ö×³”øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘°ğ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¶¿ßıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¶¿ßıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¶¿ßıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¶¿ßıÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(µßÈ…ÿÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(–Ä×ıÿÿÿÿ
+A
+java:S1481O"+Remove this unused "result" local variable.(äöÉ
+J
+java:S1481V"/Remove this unused "longResult" local variable.(Ù§Íøÿÿÿÿ
+G
+java:S1481["1Remove this unused "moduloResult" local variable.(ÈÅ’Í
+K
+java:S1481^"0Remove this unused "chainResult" local variable.(øÿºúÿÿÿÿ
+J
+java:S1481`"/Remove this unused "intExample" local variable.(´Ú•’ùÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(´™Ş
+F
+java:S1481o"+Remove this unused "isFast" local variable.(üèóÂşÿÿÿÿ
+A
+java:S1481p"+Remove this unused "canFly" local variable.(Ÿø›
+C
+java:S1125r"(Remove the unnecessary boolean literals.(ÖˆêÈûÿÿÿÿ
+I
+java:S1481r".Remove this unused "andResult" local variable.(ÖˆêÈûÿÿÿÿ
+>
+java:S1125s"(Remove the unnecessary boolean literals.(°ŠÊÌ
+a
+java:S1764s"KCorrect one of the identical sub-expressions on both sides of operator "&&"(°ŠÊÌ
+C
+java:S1125t"(Remove the unnecessary boolean literals.(ê–î¸ûÿÿÿÿ
+>
+java:S1125u"(Remove the unnecessary boolean literals.(ˆØòŞ
+a
+java:S1764u"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ˆØòŞ
+>
+java:S1125w"(Remove the unnecessary boolean literals.(š„¦ë
+C
+java:S1481w"-Remove this unused "orResult" local variable.(š„¦ë
+>
+java:S1125x"(Remove the unnecessary boolean literals.(÷¡û
+a
+java:S1764x"KCorrect one of the identical sub-expressions on both sides of operator "||"(÷¡û
+C
+java:S1125y"(Remove the unnecessary boolean literals.(ùá˜ãùÿÿÿÿ
+=
+java:S1125z"(Remove the unnecessary boolean literals.(¸æî
+`
+java:S1764z"KCorrect one of the identical sub-expressions on both sides of operator "||"(¸æî
+B
+java:S1125|"'Remove the unnecessary boolean literal.(ì‘ŸÅøÿÿÿÿ
+I
+java:S1481|".Remove this unused "notResult" local variable.(ì‘ŸÅøÿÿÿÿ
+B
+java:S1125}"'Remove the unnecessary boolean literal.(ô²µ’ÿÿÿÿÿ
+>
+java:S1125€"'Remove the unnecessary boolean literal.(ç¼š©
+C
+java:S1125"'Remove the unnecessary boolean literal.(ìàİ”øÿÿÿÿ
+G
+java:S1481…"0Remove this unused "equalResult" local variable.(®éÅ•
+L
+java:S1481"5Remove this unused "comparisonResult" local variable.(á—Ç
+a
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "<="(Ûàéq
+0
+java:S1220""Move this file to a named package.
+N
+java:S2589x"8Remove this expression which always evaluates to "false"(÷¡û
+M
+java:S2589u"7Remove this expression which always evaluates to "true"(ˆØòŞ
+S
+java:S2589"7Remove this expression which always evaluates to "true"(ìàİ”øÿÿÿÿ
+N
+java:S2589€"7Remove this expression which always evaluates to "true"(ç¼š©
+T
+java:S2589"8Remove this expression which always evaluates to "false"(ìàİ”øÿÿÿÿ
+O
+java:S2589€"8Remove this expression which always evaluates to "false"(ç¼š©
+S
+java:S2589t"8Remove this expression which always evaluates to "false"(ê–î¸ûÿÿÿÿ
+N
+java:S2589s"8Remove this expression which always evaluates to "false"(°ŠÊÌ
+R
+java:S2589r"7Remove this expression which always evaluates to "true"(ÖˆêÈûÿÿÿÿ
+S
+java:S2589y"8Remove this expression which always evaluates to "false"(ùá˜ãùÿÿÿÿ
+M
+java:S2589w"7Remove this expression which always evaluates to "true"(š„¦ë
+L
+java:S2589z"7Remove this expression which always evaluates to "true"(¸æî
+T
+java:S2589"8Remove this expression which always evaluates to "false"(ìàİ”øÿÿÿÿ
+N
+java:S2589€"7Remove this expression which always evaluates to "true"(ç¼š©

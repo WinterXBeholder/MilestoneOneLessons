@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.Scanner;
 
 public class Warmups {
     public static void main(String[] args) {
@@ -46,5 +47,20 @@ public class Warmups {
     }
 
     public static void warmup02() {
+        //knock-knock joke
+
+        Scanner console = new Scanner(System.in);
+
+        System.out.println("Knock Knock");
+        console.nextLine();
+        System.out.println("who's there?");
+        console.nextLine();
+        System.out.println("Justin");
+        console.nextLine();
+        System.out.println("Justin who?");
+        console.nextLine();
+        System.out.println("Justin time for lunch!");
+
+
     }
 }

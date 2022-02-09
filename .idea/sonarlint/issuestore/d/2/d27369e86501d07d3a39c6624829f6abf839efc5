@@ -1,0 +1,72 @@
+
+P
+java:S1854z"5Remove this useless assignment to local variable "l".(‘µÌæùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„Ãš¶øÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(–™ÕÜ
+F
+java:S1481"0Remove this unused "validNoText" local variable.(æì˜ƒ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¹ˆàÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šðµõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú÷ºçúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( èü¯
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(–ªá´
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(þÑ†üÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(´ÒË
+S	java:S106."9Replace this use of System.out or System.err by a logger.(©øèÖûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(À«†ôøÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(×öö¹
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(É—£ø
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(À²Åèþÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(µ«šˆ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(‹¯ÌÈùÿÿÿÿ
+M	java:S106F"9Replace this use of System.out or System.err by a logger.(·•£
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Øð±ð
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(òùæÿÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(À¹Ãƒùÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ÑÅìÓøÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(–¡óñ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(‡€«üÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ãñ÷¾øÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(Óæ—øÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(áÜ«
+6
+java:S2129b" Remove this "String" constructor(ùÞ×
+;
+java:S2129c" Remove this "String" constructor(ËšÌúÿÿÿÿ
+;
+java:S2129d" Remove this "String" constructor(õðÓ“øÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(ï…“Õ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(µ¾íó
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(ÈÃ×±úÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ðïû¡ùÿÿÿÿ
+6
+java:S2129j" Remove this "String" constructor(ÉµÌª
+6
+java:S2129k" Remove this "String" constructor(ÀÛº³
+6
+java:S2129l" Remove this "String" constructor(ÈÎ»Á
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ÈÃ×±úÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(Õåþ­ýÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(ÃˆÔ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(ªá²œþÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(³ò˜¼úÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(‚»ø†ýÿÿÿÿ
+A
+java:S1481z"&Remove this unused "l" local variable.(‘µÌæùÿÿÿÿ
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(˜²©ï
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š
+]
+java:S1192b"GDefine a constant instead of duplicating this literal "turnip" 3 times.(ùÞ×
+R
+java:S4973e"<Strings and Boxed types should be compared using "equals()".(ï…“Õ
+R
+java:S4973f"<Strings and Boxed types should be compared using "equals()".(µ¾íó
+W
+java:S4973s"<Strings and Boxed types should be compared using "equals()".(³ò˜¼úÿÿÿÿ
+W
+java:S4973u"<Strings and Boxed types should be compared using "equals()".(‚»ø†ýÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+^
+java:S2259z"CA "NullPointerException" could be thrown; "value" is nullable here.(‘µÌæùÿÿÿÿ
